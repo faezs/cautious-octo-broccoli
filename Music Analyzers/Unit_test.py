@@ -1,0 +1,3 @@
+Import artist
+
+Artist.model = 
